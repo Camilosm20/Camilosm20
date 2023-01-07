@@ -1,30 +1,15 @@
 ### Hi 👋
 
-#### This is the page of Milo
+#### This is the page of Milo GitHub
 <sup>Idiomas: Español (nativo), Ingles: Intermedio</sup><br>
 <sup>Languages: Spanish (native), English: Intermediate</sup>
 
 #### Front-End Developer 
 #### Back-End Developer (in process)
 
-# Profile: 
-- Name: Camilo Sepulveda
-- Contry: Colombia
-- Technologies:
-- *REACT*
-- *Svelte*
-- *CSS*
-- *BULMA*
-- *BOOSTRAP*
-- *JavaScript*
-- *HTML*
-- *SCSS*
-- *PHP*
-- *JAVA*
-- *C#*
-- *.NET CORE*
-- *.NET 6*
-- *API REST*
+LOVE FOR WEBSITES
+
+*Follow me*
 
 
 ## PROFILE IN PROCESS (10%)
