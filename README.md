@@ -1,8 +1,34 @@
 ### Hi there 👋
 
 #### This is the page of Milo
-<sup>Idiomas: Español (nativo), Ingles: Intermedio</sup>
+<sup>Idiomas: Español (nativo), Ingles: Intermedio</sup><br>
 <sup>Languages: Spanish (native), English: Intermediate</sup>
+
+#### Front-End Developer 
+#### Back-End Developer (in process)
+
+# Profile: 
+Name: Camilo Sepulveda
+Contry: Colombia
+technologies:
+*REACT*
+*Svelte*
+*CSS*
+*BULMA*
+*BOOSTRAP*
+*JavaScript*
+*HTML*
+*SCSS*
+*PHP*
+*JAVA*
+*C#*
+*.NET CORE*
+*.NET 6*
+*API REST*
+
+
+## PROFILE IN PROCESS (10%)
+
 
 
 
