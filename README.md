@@ -1,6 +1,6 @@
-# 👋 ¡Hola! Soy Camilo 👨‍💻
+# 👋 ¡Hola! Soy Camilo
 
-¡Bienvenido a mi espacio digital en GitHub! Soy un desarrollador apasionado por crear **experiencias web increíbles** que combinan diseño, rendimiento y funcionalidad real.
+¡Bienvenido! Soy un desarrollador apasionado por crear **experiencias web increíbles** que combinan diseño, rendimiento y funcionalidad real.
 
 ---
 
@@ -36,9 +36,7 @@ Soy un **desarrollador full-stack** con un enfoque especial en el **desarrollo w
 
 ---
 
-## 🌐 ¿Quieres ver lo que hago?
-
-Explora mis repositorios, sígueme o conecta conmigo. Me encantan los proyectos colaborativos y siempre estoy abierto a nuevas ideas 🚀
+Explora mis repositorios, sígueme. Me encantan los proyectos colaborativos y siempre estoy abierto a nuevas ideas 🚀
 
 - 📬 **Correo**: madridcamilo606@gmail.com
 - 🔗 **LinkedIn**: [linkedin.com/in/camilo-sepulveda-madrid-736406287](https://www.linkedin.com/in/camilo-sepulveda-madrid-736406287/)
@@ -48,5 +46,5 @@ Explora mis repositorios, sígueme o conecta conmigo. Me encantan los proyectos 
 
 > _"El código bien escrito es como la buena música: elegante, armonioso y con propósito."_ 🎶
 
-¡Gracias por pasar por aquí! ✨
+¡Gracias!
 
