@@ -1,6 +1,6 @@
 # Hola, soy Camilo Sepúlveda
 
-Soy Ingeniero en Sistemas y Tecnólogo en Desarrollo de Software con más de 3 años de experiencia como desarrollador, especializado en la creación de microservicios con Java y Spring Boot.
+Soy Ingeniero en Sistemas y Tecnólogo en Desarrollo de Software con más de 3 años de experiencia como desarrollador.
 
 ---
 
