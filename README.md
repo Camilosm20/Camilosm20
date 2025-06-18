@@ -8,10 +8,14 @@ Soy Ingeniero en Sistemas y Tecnólogo en Desarrollo de Software con más de 3 a
 
 Me enfoco en soluciones escalables y seguras, aplicando buenas prácticas de arquitectura limpia y principios SOLID.
 
-**Backend**: Java (Spring Boot, Spring Data, Spring Security), PHP.
+**Backend**: Java (Spring Boot, Spring Data, Spring Security), PHP (Framework-X), NodeJS (Express).
+
 **Frontend**: Angular, Svelte, React (básico).
+
 **Bases de Datos**: PostgreSQL, MySQL, SQL Server, DynamoDB.
+
 **DevOps/Cloud**: Docker, Kubernetes, AWS (EC2, S3, Lambda, RDS), Azure, Git.
+
 **Testing**: JUnit, Pruebas de aceptación.
 
 ---
