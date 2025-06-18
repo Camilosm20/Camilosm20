@@ -1,50 +1,32 @@
-# ¡Hola! Soy Camilo
+# Hola, soy Camilo Sepúlveda
 
-¡Bienvenido! Soy un desarrollador apasionado por crear **experiencias web increíbles** que combinan diseño, rendimiento y funcionalidad real.
-
----
-
-## Sobre mí
-
-Soy un **desarrollador full-stack** con un enfoque especial en el **desarrollo web moderno**. Me encanta explorar nuevas tecnologías, construir soluciones elegantes y aprender constantemente. Ya sea en el **frontend** con React, Angular o Svelte, o en el **backend** con PHP o Java + Spring Boot, siempre estoy buscando cómo llevar mis proyectos al siguiente nivel.
+[cite_start]Soy Ingeniero en Sistemas y Tecnólogo en Desarrollo de Software con más de 3 años de experiencia como desarrollador, especializado en la creación de microservicios con Java y Spring Boot.
 
 ---
 
-##  Tecnologías que me apasionan
+## Mi Stack Principal
 
-### Frontend
--  **React** – Mi herramienta favorita para crear interfaces dinámicas.
-- **Angular** – Estructura sólida para proyectos a gran escala.
-- **Svelte** – Minimalismo, velocidad y belleza.
+[cite_start]Me enfoco en soluciones escalables y seguras, aplicando buenas prácticas de arquitectura limpia y principios SOLID.
 
-### Backend
-- **PHP** – Desde proyectos simples hasta sistemas robustos.
-- **Java con Spring Boot** – Mi combo favorito para microservicios y APIs poderosas.
-
-### DevOps & Cloud
-- **Docker** – Contenedores everywhere.
-- **AWS** – Desde S3 hasta EC2 y más allá.
-  
----
-
-## Lo que me mueve
-
-- Resolver problemas reales con tecnología.
-- Cuidar cada detalle visual y funcional.
-- Crear software reutilizable, escalable y mantenible.
-- Aprender, experimentar y compartir lo que sé.
+* [cite_start]**Backend**: Java (Spring Boot, Spring Data, Spring Security), PHP.
+* [cite_start]**Frontend**: Angular, Svelte, React (básico).
+* [cite_start]**Bases de Datos**: PostgreSQL, MySQL, SQL Server, DynamoDB.
+* [cite_start]**DevOps/Cloud**: Docker, Kubernetes, AWS (EC2, S3, Lambda, RDS), Azure, Git.
+* [cite_start]**Testing**: JUnit, Pruebas de aceptación.
 
 ---
 
-Explora mis repositorios, sígueme. Me encantan los proyectos colaborativos y siempre estoy abierto a nuevas ideas 🚀
+## Lo que me define
 
-- **Correo**: madridcamilo606@gmail.com
-- **LinkedIn**: [linkedin.com/in/camilo-sepulveda-madrid-736406287](https://www.linkedin.com/in/camilo-sepulveda-madrid-736406287/)
-- **Portafolio web**: Proximamente.
+[cite_start]Soy proactivo, autodidacta y valoro el trabajo en equipo bajo metodologías ágiles como SCRUM. [cite_start]Siempre busco aportar soluciones que generen valor, sean escalables y estén orientadas al usuario.
 
 ---
 
-> _"El código bien escrito es como la buena música: elegante, armonioso y con propósito."_ 🎶
+## Conectemos
 
-¡Gracias!
+Explora mis repositorios para conocer mis proyectos. Siempre abierto a nuevas ideas y colaboraciones.
+
+* [cite_start]**Email**: scamilo482@gmail.com 
+* [cite_start]**LinkedIn**: [Camilo Sepulveda Madrid](https://www.linkedin.com/in/camilo-sepulveda-madrid-736406287/) 
+* **Portafolio web**: Próximamente.
 
