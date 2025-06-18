@@ -18,7 +18,7 @@ Me enfoco en soluciones escalables y seguras, aplicando buenas prácticas de arq
 
 ## Lo que me define
 
-Soy proactivo, autodidacta y valoro el trabajo en equipo bajo metodologías ágiles como SCRUM. [cite_start]Siempre busco aportar soluciones que generen valor, sean escalables y estén orientadas al usuario.
+Soy proactivo, autodidacta y valoro el trabajo en equipo bajo metodologías ágiles como SCRUM. Siempre busco aportar soluciones que generen valor, sean escalables y estén orientadas al usuario.
 
 ---
 
