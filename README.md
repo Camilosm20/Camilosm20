@@ -1,6 +1,6 @@
 # Hola, soy Camilo Sepúlveda
 
-Soy Ingeniero en Sistemas y Tecnólogo en Desarrollo de Software con más de 3 años de experiencia como desarrollador.
+Ingeniero en Sistemas y Tecnólogo en Desarrollo de Software con más de 3 años de experiencia como desarrollador en la industria del software. He trabajado en entornos de alto nivel, participando en el desarrollo de microservicios, APIs REST y soluciones cloud orientadas a la escalabilidad, seguridad y mantenibilidad.
 
 ---
 
@@ -8,27 +8,30 @@ Soy Ingeniero en Sistemas y Tecnólogo en Desarrollo de Software con más de 3 a
 
 Me enfoco en soluciones escalables y seguras, aplicando buenas prácticas de arquitectura limpia y principios SOLID.
 
-**Backend**: Java (Spring Boot, Spring Data, Spring Security), PHP (Framework-X), NodeJS (Express).
+**Backend**: Java (Spring Boot, Spring Data, Spring Security), C# (.NET), Node.js (Express), PHP.
 
-**Frontend**: Angular, Svelte, React (básico).
+**Frontend**: Angular, Svelte, React (básico)
 
-**Bases de Datos**: PostgreSQL, MySQL, SQL Server, DynamoDB.
+**Bases de Datos**: PostgreSQL, SQL Server, MongoDB, DynamoDB, MySQL
 
-**DevOps/Cloud**: Docker, Kubernetes, AWS (EC2, S3, Lambda, RDS), Azure, Git.
+**DevOps/Cloud**: AWS (EC2, S3, Lambda, RDS, IAM, VPC, CloudWatch, SQS/SNS), Azure (DevOps, Pipelines, API Gateway), Docker, Kubernetes, Git.
 
-**Testing**: JUnit, Pruebas de aceptación.
+**Testing**: JUnit, xUnit, pruebas de integración y aceptación, documentacion con summary.
+
+**Arquitectura y Metodologías**: Arquitectura limpia, Hexagonal, DDD, SOLID, CQRS, Scrum.
 
 ---
 
 ## Lo que me define
 
-Soy proactivo, autodidacta y valoro el trabajo en equipo bajo metodologías ágiles como SCRUM. Siempre busco aportar soluciones que generen valor, sean escalables y estén orientadas al usuario.
+Me caracterizo por ser proactivo, autodidacta y colaborativo, con interés constante en el aprendizaje continuo y en la creación de soluciones escalables, seguras y alineadas a buenas prácticas enterprise. Disfruto trabajar en equipo y aportar valor real a los productos en los que participo.
 
 ---
 
 ## Conectemos
 
-Explora mis repositorios para conocer mis proyectos. Siempre abierto a nuevas ideas y colaboraciones.
+Explora mis repositorios para conocer algunos de mis proyectos y experimentos técnicos.
+Siempre abierto a aprender, compartir conocimiento y colaborar.
 
 **Email**: scamilo482@gmail.com 
 **LinkedIn**: [Camilo Sepulveda Madrid](https://www.linkedin.com/in/camilo-sepulveda-madrid-736406287/)
