@@ -1,38 +1,76 @@
-# Hola, soy Camilo Sepúlveda
+# Hi, I'm Camilo Sepúlveda
 
-Ingeniero en Sistemas y Tecnólogo en Desarrollo de Software con más de 3 años de experiencia como desarrollador en la industria del software. He trabajado en entornos de alto nivel, participando en el desarrollo de microservicios, APIs REST y soluciones cloud orientadas a la escalabilidad, seguridad y mantenibilidad.
+I'm a Systems Engineer and Software Developer with 4+ years of professional experience in the software industry. I have worked on the design and development of microservices, RESTful APIs, and cloud-based solutions focused on scalability, security, maintainability, and performance.
 
----
-
-## Mi Stack Principal
-
-Me enfoco en soluciones escalables y seguras, aplicando buenas prácticas de arquitectura limpia y principios SOLID.
-
-**Backend**: Java (Spring Boot, Spring Data, Spring Security), C# (.NET), Node.js (Express), PHP.
-
-**Frontend**: Angular, Svelte, React (básico)
-
-**Bases de Datos**: PostgreSQL, SQL Server, MongoDB, DynamoDB, MySQL
-
-**DevOps/Cloud**: AWS (EC2, S3, Lambda, RDS, IAM, VPC, CloudWatch, SQS/SNS), Azure (DevOps, Pipelines, API Gateway), Docker, Kubernetes, Git.
-
-**Testing**: JUnit, xUnit, pruebas de integración y aceptación, documentacion con summary.
-
-**Arquitectura y Metodologías**: Arquitectura limpia, Hexagonal, DDD, SOLID, CQRS, Scrum.
+I enjoy solving complex technical problems, designing scalable architectures, and building reliable software using modern engineering practices.
 
 ---
 
-## Lo que me define
+## Tech Stack
 
-Me caracterizo por ser proactivo, autodidacta y colaborativo, con interés constante en el aprendizaje continuo y en la creación de soluciones escalables, seguras y alineadas a buenas prácticas enterprise. Disfruto trabajar en equipo y aportar valor real a los productos en los que participo.
+I focus on building scalable and maintainable solutions using clean architecture, SOLID principles, and other proven software engineering practices.
+
+### Backend
+- Java / Spring Boot
+- C# / .NET
+- Node.js / NestJS / Express
+
+### Frontend
+- Angular
+- React
+- Svelte
+
+### Databases
+- PostgreSQL
+- SQL Server
+- MongoDB
+- DynamoDB
+- MySQL
+
+### Cloud & DevOps
+- AWS: EC2, S3, Lambda, RDS, IAM, VPC, CloudWatch, SQS/SNS
+- Azure: Azure DevOps, Pipelines, API Management, Virtual Machines, App Services
+- Docker
+- Podman
+- Kubernetes
+- Git
+- CI/CD
+
+### Testing
+- JUnit
+- xUnit
+- Jest
+- Unit testing
+- Integration testing
+- Acceptance testing
+
+### Architecture & Methodologies
+- Clean Architecture
+- Hexagonal Architecture
+- Domain-Driven Design (DDD)
+- SOLID
+- CQRS
+- Scrum
+- Extreme Programming (XP)
 
 ---
 
-## Conectemos
+## What Defines Me
 
-Explora mis repositorios para conocer algunos de mis proyectos y experimentos técnicos.
-Siempre abierto a aprender, compartir conocimiento y colaborar.
+I'm proactive, self-driven, and collaborative, with a strong commitment to continuous learning and professional growth.
 
-**Email**: scamilo482@gmail.com 
-**LinkedIn**: [Camilo Sepulveda Madrid](https://www.linkedin.com/in/camilo-sepulveda-madrid-736406287/)
+I enjoy working with multidisciplinary teams, contributing to technical decisions, and building solutions that provide real value to the products and businesses I work with.
 
+I'm particularly interested in software architecture, backend development, cloud technologies, and building scalable and maintainable systems.
+
+---
+
+## Let's Connect
+
+Feel free to explore my repositories to see some of my projects, experiments, and technical work.
+
+I'm always open to learning, sharing knowledge, and collaborating on interesting software projects.
+
+**Email:** scamilo482@gmail.com
+
+**LinkedIn:** Camilo Sepulveda Madrid
